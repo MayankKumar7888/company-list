@@ -26,7 +26,7 @@ export default function Filters({ filters, setFilters, industries, locations, so
                 <MenuItem key={loc} value={loc}>{loc}</MenuItem>
             ))}
         </TextField>
-        <Button variant="outlined" sx={{width: '160px'}}
+        <Button variant="outlined" sx={{width: '180px'}}
             onClick={() => setSortOrder(sortOrder === "asc" ? "desc" : "asc")}
         >
         Sort {sortOrder === "asc" ? "Descending" : "Ascending"}
