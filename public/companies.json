@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "TechZone", "industry": "Software", "location": "Bangalore" },
+  { "id": 2, "name": "GreenWorld", "industry": "Renewable Energy", "location": "Delhi" },
+  { "id": 3, "name": "FinEdge", "industry": "Finance", "location": "Mumbai" },
+  { "id": 4, "name": "EduSpark", "industry": "Education", "location": "Pune" },
+  { "id": 5, "name": "BuildMate", "industry": "Construction", "location": "Chennai" }
+]
+
